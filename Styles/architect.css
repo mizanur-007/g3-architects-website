@@ -1,4 +1,9 @@
-*{
-    margin: 0px;
-    padding: 0px;
+/* work sans font from google font  */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Work+Sans:wght@400;500;600;700;800&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
